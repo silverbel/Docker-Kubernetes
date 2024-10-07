@@ -25,10 +25,10 @@
 -----
 #### 추가 사항
 
-> EC2 인스턴스 안에 도커를 설치해 사용할 수 있다. 이 경우 EC2 인스턴스는 도커 호스트가 되어 도커 컨테이너를 실행할 수 있다.
+> ECS/EC2 인스턴스 안에 도커를 설치해 사용할 수 있다. 이 경우 ECS/EC2 인스턴스는 도커 호스트가 되어 도커 컨테이너를 실행할 수 있다.
+<img width="877" alt="image" src="https://github.com/user-attachments/assets/007dff91-f9d3-4229-851d-867b3df1bc9c">
 
-#### 구조 관련
-<img width="891" alt="image" src="https://github.com/user-attachments/assets/a9897ee6-b2c5-487d-ad74-9e172c1d0ac6">
+
 
 #### EKS 와 ECS 차이
 <img width="871" alt="image" src="https://github.com/user-attachments/assets/c5a81c55-d986-498b-925a-386e0cde70ff">
