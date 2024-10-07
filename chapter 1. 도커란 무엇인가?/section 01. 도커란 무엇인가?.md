@@ -29,3 +29,5 @@
 ### 프로그램의 격리란?
 
 > 컨테이너 A 와 컨테이너 B는 완전히 분리된 환경이다!
+
+<img width="560" alt="image" src="https://github.com/user-attachments/assets/5ba06030-1eb5-415e-805e-f182ed3af5e1">
