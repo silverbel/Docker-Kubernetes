@@ -21,3 +21,13 @@
 ### 자유로이 옮길 수 있는 컨테이너
 
 옮기는 방법 : 컨테이너 정보 내보내기 -> 다른 도커엔진에서 복원
+
+-----
+#### 추가 사항
+
+> EC2 인스턴스 안에 도커를 설치해 사용할 수 있다. 이 경우 EC2 인스턴스는 도커 호스트가 되어 도커 컨테이너를 실행할 수 있다.
+
+<img width="891" alt="image" src="https://github.com/user-attachments/assets/a9897ee6-b2c5-487d-ad74-9e172c1d0ac6">
+
+#### EKS 와 ECS 차이
+<img width="871" alt="image" src="https://github.com/user-attachments/assets/c5a81c55-d986-498b-925a-386e0cde70ff">
