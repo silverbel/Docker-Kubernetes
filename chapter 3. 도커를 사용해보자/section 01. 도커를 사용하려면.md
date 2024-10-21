@@ -31,3 +31,9 @@
 
 성공적으로 설치된 도커 데스크톱 화면
 <img width="1268" alt="image" src="https://github.com/user-attachments/assets/63b1603f-9298-4360-9784-04844c8b04d8">
+
+----
+도커 상태 확인
+- docker info
+실행 중인 컨테이너 확인
+- docker ps
