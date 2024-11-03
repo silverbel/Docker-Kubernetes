@@ -46,21 +46,27 @@ step 1) 아파치 이미지를 사용해 apa00011ex1 이라는 이름의 컨테�
 
 
 step 2) 컨테이너가 실행중인지 확인!
+
 <img width="1008" alt="image" src="https://github.com/user-attachments/assets/29139cb4-819a-4a8b-9038-bebc95d77591">
 
 step 3) 컨테이너 종료
+
 <img width="501" alt="image" src="https://github.com/user-attachments/assets/180bee60-c62f-46a5-97bc-0c009763bd1d">
 
 step 4) 컨테이너가 종료 됐는지 확인
+
 <img width="597" alt="image" src="https://github.com/user-attachments/assets/74de89e0-7358-4d70-beec-30b2f48740e7">
 
 step 5) ps 커맨드와 인자를 사용해 컨테이너의 존재 여부 확인
+
 <img width="963" alt="image" src="https://github.com/user-attachments/assets/a5fc0391-a284-4964-b38d-ab82cd788b45">
 
 step 6) 컨테이너 삭제
+
 <img width="581" alt="image" src="https://github.com/user-attachments/assets/a508ed5d-1548-48bf-aebf-c98e45704d24">
 
 step 7) 컨테이너가 삭제됐는지 확인
+
 <img width="583" alt="image" src="https://github.com/user-attachments/assets/f7282153-e6ce-4719-819c-5380f5d16712">
 
 
