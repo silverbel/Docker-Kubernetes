@@ -1,4 +1,4 @@
-<img width="1008" alt="image" src="https://github.com/user-attachments/assets/2e450aae-cccb-4fbb-9f7e-3067b63c25e9">## 컨테이너 생성과 삭제, 실행, 정지
+## 컨테이너 생성과 삭제, 실행, 정지
 
 ### docker run 커맨드와 docker stop, docker rm 커맨드
 
